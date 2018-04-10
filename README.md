@@ -1,6 +1,6 @@
 # Caesar-Cipher
 
-A simple program used for ciphering and deciphering Caesar cipher.
+A simple program used for ciphering and deciphering Caesar cipher. Just a small program I quickly wrote out of curiosity.
 
 ### Possible improvements
 * Bad characters checking
